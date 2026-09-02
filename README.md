@@ -12,3 +12,4 @@
 | **Day 01** | Aug 30, 2026 | HTML Basics & Forms | Finished 82 steps, built Cat Photo App, started Bookstore Page | [Read Log](./logs/day-01.md) |
 | **Day 02** | Aug 31, 2026 | SEO & Open Graph Tags | Finished Bookstore Page, started HTML SEO theory & OG tags | [Read Log](./logs/day-02.md) |
 | **Day 03** | Sept 1, 2026 | Travel Agency Lab & SEO | Completed SEO theory module and built the Travel Agency Page lab | [Read Log](./logs/day-03.md) |
+| **Day 04** | Sept 2, 2026 | HTML Audio & Video Elements | Completed Working with Audio and Video Elements theory | [Read Log](./logs/day-04.md) |
