@@ -15,3 +15,4 @@
 | **Day 04** | Sept 2, 2026 | HTML Audio & Video Elements | Completed Working with Audio and Video Elements theory | [Read Log](./logs/day-04.md) |
 | **Day 05** | Sept 3, 2026 | HTML Music Player Workshop | Completed all 9 steps of the HTML Music Player workshop | [Read Log](./logs/day-05.md) |
 | **Day 06** | Sept 5, 2026 | HTML Media, Images/SVGs & Heart Icon | Completed Audio/Video Lab, Images/SVGs Theory, and Heart Icon Workshop | [Read Log](./logs/day-06.md) |
+| **Day 07** | Sept 6, 2026 | HTML iframe Element | Started learning iframe embedding for external web content | [Read Log](./logs/day-07.md) |
