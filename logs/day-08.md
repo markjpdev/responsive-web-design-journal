@@ -1,7 +1,7 @@
-# Day 08: Sept 07, 2026 — HTML iframe Theory & Replaced Elements
+# Day 08: Sept 07, 2026 — HTML iframe Theory & Video Display Workshop
 
 ### 📝 Today's Progress
-Finished the full **Working with the iframe Element** theory module, covering replaced elements and embedding external media like videos.
+Completed the full **Working with the iframe Element** theory module and finished all 8 steps of the **Build a Video Display Using iframe** workshop.
 
 ### 💡 Key Takeaways
 
@@ -11,5 +11,8 @@ Learned that replaced elements (like `<img>`, `<video>`, and `<iframe>`) are HTM
 **2. Inline Frames (`<iframe>`)**  
 Understood how `<iframe>` embeds external HTML content directly inside a page, requiring essential attributes like `src`, `title` (for accessibility), and explicit dimensions (`width`, `height`).
 
+**3. Practical Video Embedding**  
+Practiced configuring external media embeds using YouTube iframe code, applying proper security parameters (`allowfullscreen`, `referrerpolicy`), and setting explicit dimensions.
+
 ---
-*Next up: Build a Video Display Using iframe (Workshop)*
+*Next up: Build a Video Compilation Page (Lab)*
