@@ -18,3 +18,4 @@
 | **Day 08** | Sept 7, 2026 | HTML iframe, Video Display & Compilation Lab | Completed iframe theory, Video Display workshop, and Video Compilation lab | [Read Log](./logs/day-08.md) |
 | **Day 09** | Sept 9, 2026 | HTML Working with Links | Completed link targets, path syntax (./, ../), and link states theory | [Read Log](./logs/day-09.md) |
 | **Day 10** | Sept 10, 2026 | Dev Environment Setup | Configured and customized Neovim for modal editing and local web development workflow | [Read Log](./logs/day-10.md) |
+| **Day 11** | Sept 11, 2026 | Basic HTML Review | Completed comprehensive review of HTML elements, media assets, iframes, and link structures | [Read Log](./logs/day-11.md) |
