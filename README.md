@@ -1,7 +1,6 @@
 # freeCodeCamp Responsive Web Design — DevLog
 
 **Course:** freeCodeCamp Responsive Web Design  
-**Status:** 82 / 302 Steps Complete  
 
 ---
 
