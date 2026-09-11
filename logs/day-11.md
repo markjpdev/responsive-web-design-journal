@@ -1,7 +1,7 @@
-# Day 11: Sept 11, 2026 — Basic HTML Review
+# Day 11: Sept 11, 2026 — Basic HTML Review & Quiz
 
 ### 📝 Today's Progress
-Finished the comprehensive **Basic HTML Review** section, reinforcing core HTML syntax, media elements, vector icons, iframes, and link architecture.
+Finished the comprehensive **Basic HTML Review** section and successfully passed the **Basic HTML Quiz**, testing core knowledge across elements, attributes, and embedding.
 
 ### 💡 Key Takeaways
 
@@ -11,5 +11,8 @@ Revisited fundamental markup structures, document anatomy, and semantic tags req
 **2. Embedded Assets & Links**  
 Consolidated takeaways across image optimization, SVG vector handling, iframe embedding attributes, absolute/relative paths, and link target behaviors.
 
+**3. Knowledge Check**  
+Validated core HTML syntax, element nesting rules, attribute choices, and pathing logic through quiz assessment.
+
 ---
-*Next up: Basic HTML Quiz*
+*Next up: Semantic HTML*
