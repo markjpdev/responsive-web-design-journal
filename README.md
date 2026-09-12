@@ -19,3 +19,4 @@
 | **Day 09** | Sept 9, 2026 | HTML Working with Links | Completed link targets, path syntax (./, ../), and link states theory | [Read Log](./logs/day-09.md) |
 | **Day 10** | Sept 10, 2026 | Dev Environment Setup | Configured and customized Neovim for modal editing and local web development workflow | [Read Log](./logs/day-10.md) |
 | **Day 11** | Sept 11, 2026 | Basic HTML Review & Quiz | Completed comprehensive review and passed the Basic HTML Quiz | [Read Log](./logs/day-11.md) |
+| **Day 12** | Sept 12, 2026 | Importance of Semantic HTML | Completed theory on HTML semantics, document hierarchy, and presentational vs. semantic markup | [Read Log](./logs/day-12.md) |
