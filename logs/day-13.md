@@ -1,7 +1,7 @@
-# Day 13: Sept 13, 2026 — Nuanced Semantic Elements Theory
+# Day 13: Sept 13, 2026 — Nuanced Semantic Elements & Web Browsers Workshop
 
 ### 📝 Today's Progress
-Completed the **Understanding Nuanced Semantic Elements** theory section, learning when to choose specific inline tags and structure term-description pairs.
+Completed the **Understanding Nuanced Semantic Elements** theory section and finished all 7 steps of the **Build a List of Major Web Browsers** workshop.
 
 ### 💡 Key Takeaways
 
@@ -14,5 +14,8 @@ Applied `<strong>` for content of high importance, urgency, or serious tone, whi
 **3. Description Lists (`<dl>`)**  
 Learned how to construct key-value pairs or glossary term lists using `<dl>` containing `<dt>` (terms) and `<dd>` (descriptions/details).
 
+**4. Semantic List Construction**  
+Practiced structuring semantic description lists in a hands-on workshop to cleanly display browser details and specifications.
+
 ---
-*Next up: Build a List of Major Web Browsers (Workshop)*
+*Next up: Working with Text and Time Semantic Elements (Theory)*
