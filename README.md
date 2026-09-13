@@ -20,3 +20,4 @@
 | **Day 10** | Sept 10, 2026 | Dev Environment Setup | Configured and customized Neovim for modal editing and local web development workflow | [Read Log](./logs/day-10.md) |
 | **Day 11** | Sept 11, 2026 | Basic HTML Review & Quiz | Completed comprehensive review and passed the Basic HTML Quiz | [Read Log](./logs/day-11.md) |
 | **Day 12** | Sept 12, 2026 | Importance of Semantic HTML | Completed theory on HTML semantics, document hierarchy, and presentational vs. semantic markup | [Read Log](./logs/day-12.md) |
+| **Day 13** | Sept 13, 2026 | Nuanced Semantic Elements | Completed theory on `<em>`/`<i>`, `<strong>`/`<b>`, and description lists `<dl>` | [Read Log](./logs/day-13.md) |
