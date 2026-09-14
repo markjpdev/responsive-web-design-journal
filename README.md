@@ -21,3 +21,4 @@
 | **Day 11** | Sept 11, 2026 | Basic HTML Review & Quiz | Completed comprehensive review and passed the Basic HTML Quiz | [Read Log](./logs/day-11.md) |
 | **Day 12** | Sept 12, 2026 | Importance of Semantic HTML | Completed theory on HTML semantics, document hierarchy, and presentational vs. semantic markup | [Read Log](./logs/day-12.md) |
 | **Day 13** | Sept 13, 2026 | Nuanced Semantic Elements & Web Browsers Workshop | Completed theory on `<em>`/`<i>`, `<strong>`/`<b>`, description lists `<dl>`, and Web Browsers workshop | [Read Log](./logs/day-13.md) |
+| **Day 14** | Sept 14, 2026 | Text and Time Semantic Elements | Completed theory on `<blockquote>`, `<q>`, `<abbr>`, `<address>`, and `<time>` elements | [Read Log](./logs/day-14.md) |
