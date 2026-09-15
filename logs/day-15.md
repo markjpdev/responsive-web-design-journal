@@ -1,18 +1,21 @@
-# Day 15: Sept 15, 2026 — Cat Blog, Event Hub Lab, Semantic Review & Quiz
+# Day 15: Sept 15, 2026 — Cat Blog, Event Hub Lab, Semantic Quiz & Button Types Theory
 
 ### 📝 Today's Progress
-Completed all 19 steps of the **Build a Cat Blog Page** workshop, passed the **Build an Event Hub** lab, completed the **Semantic HTML Review**, and passed the **Semantic HTML Quiz**.
+Completed all 19 steps of the **Build a Cat Blog Page** workshop, passed the **Build an Event Hub** lab, completed the **Semantic HTML Review**, passed the **Semantic HTML Quiz**, and started the **Forms and Tables** module with button types theory.
 
 ### 💡 Key Takeaways
 
-**1. Specialized Semantic Layouts**  
-Practiced structuring blog content using niche semantic markup including `<sub>`, `<sup>`, `<code>`, `<pre>`, and `<ruby>` elements.
+**1. Specialized & Layout Semantics**  
+Practiced structuring blog content using niche semantic markup (`<sub>`, `<sup>`, `<code>`, `<pre>`, `<ruby>`) and built an Event Hub layout using proper structural containers (`<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<footer>`).
 
-**2. Independent Semantic Page Assembly**  
-Applied structural containers (`<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<footer>`) to construct a functional Event Hub page layout.
+**2. Module Assessment**  
+Validated mastery over semantic document structure, text formatting, machine-readable date/time attributes, and accessibility-first markup via the quiz.
 
-**3. Module Review & Assessment**  
-Consolidated and validated mastery over semantic document structure, text formatting, machine-readable date/time attributes, and accessibility-first markup.
+**3. HTML Button Types (`<button type="...">`)**  
+Learned how the `type` attribute controls button behavior:
+- `type="button"`: Has no default submit action; ideal for triggering custom JavaScript interactivity (e.g., alerts, modals, side menus).
+- `type="submit"`: Default form submit behavior.
+- `type="reset"`: Clears all form field inputs to default values.
 
 ---
-*Next up: Forms and Tables*
+*Next up: Complete remaining theory in Working with Form Controls*
