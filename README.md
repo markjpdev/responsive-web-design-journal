@@ -22,3 +22,4 @@
 | **Day 12** | Sept 12, 2026 | Importance of Semantic HTML | Completed theory on HTML semantics, document hierarchy, and presentational vs. semantic markup | [Read Log](./logs/day-12.md) |
 | **Day 13** | Sept 13, 2026 | Nuanced Semantic Elements & Web Browsers Workshop | Completed theory on `<em>`/`<i>`, `<strong>`/`<b>`, description lists `<dl>`, and Web Browsers workshop | [Read Log](./logs/day-13.md) |
 | **Day 14** | Sept 14, 2026 | Text/Time Semantics, Quincy's Job Tips & Specialized Semantics | Completed theory on quotes/time, Quincy's Job Tips workshop, and specialized tags (`<sub>`, `<sup>`, `<code>`, `<ruby>`) | [Read Log](./logs/day-14.md) |
+| **Day 15** | Sept 15, 2026 | Cat Blog Page Workshop | Completed all 19 steps of the Build a Cat Blog Page workshop using specialized semantic HTML | [Read Log](./logs/day-15.md) |
