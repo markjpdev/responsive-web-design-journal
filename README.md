@@ -24,4 +24,4 @@
 | **Day 14** | Sept 14, 2026 | Text/Time Semantics, Quincy's Job Tips & Specialized Semantics | Completed theory on quotes/time, Quincy's Job Tips workshop, and specialized tags (`<sub>`, `<sup>`, `<code>`, `<ruby>`) | [Read Log](./logs/day-14.md) |
 | **Day 15** | Sept 15, 2026 | Cat Blog, Event Hub Lab, Semantic Quiz & Button Types | Finished Semantic HTML section and started Forms & Tables (Button Types theory) | [Read Log](./logs/day-15.md) |
 | **Day 16** | Sept 16, 2026 | Working with Forms Theory | Completed theory on forms, inputs, labels, button types, validation, and form states | [Read Log](./logs/day-16.md) |
-| **Day 17** | Sept 17, 2026 | Hotel Feedback Form Workshop | Completed all 33 steps of the Build a Hotel Feedback Form workshop | [Read Log](./logs/day-17.md) |
+| **Day 17** | Sept 17, 2026 | Hotel Feedback Form Workshop & Working with Tables Theory | Completed Hotel Feedback Form workshop and theory on HTML tables usage | [Read Log](./logs/day-17.md) |
