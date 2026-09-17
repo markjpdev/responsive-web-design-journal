@@ -25,3 +25,4 @@
 | **Day 15** | Sept 15, 2026 | Cat Blog, Event Hub Lab, Semantic Quiz & Button Types | Finished Semantic HTML section and started Forms & Tables (Button Types theory) | [Read Log](./logs/day-15.md) |
 | **Day 16** | Sept 16, 2026 | Working with Forms Theory | Completed theory on forms, inputs, labels, button types, validation, and form states | [Read Log](./logs/day-16.md) |
 | **Day 17** | Sept 17, 2026 | Hotel Feedback Form Workshop & Working with Tables Theory | Completed Hotel Feedback Form workshop and theory on HTML tables usage | [Read Log](./logs/day-17.md) |
+| **Day 18** | Sept 18, 2026 | Final Exams Table Workshop | Completed all 10 steps of the Build a Final Exams Table workshop | [Read Log](./logs/day-18.md) |
