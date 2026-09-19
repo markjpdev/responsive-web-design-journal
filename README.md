@@ -26,3 +26,4 @@
 | **Day 16** | Sept 16, 2026 | Working with Forms Theory | Completed theory on forms, inputs, labels, button types, validation, and form states | [Read Log](./logs/day-16.md) |
 | **Day 17** | Sept 17, 2026 | Hotel Feedback Form Workshop & Working with Tables Theory | Completed Hotel Feedback Form workshop and theory on HTML tables usage | [Read Log](./logs/day-17.md) |
 | **Day 18** | Sept 18, 2026 | Tables, Catalog Lab, Tools, Review & Quiz | Completed Final Exams Table workshop, Book Catalog lab, HTML Tools theory, Tables/Forms review, and passed the module quiz | [Read Log](./logs/day-18.md) |
+| **Day 19** | Sept 19, 2026 | Build a Survey Form Certification Project | Built and submitted the Survey Form certification project with custom form controls and labels | [Read Log](./logs/day-19.md) |
