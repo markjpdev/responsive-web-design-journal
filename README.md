@@ -27,3 +27,4 @@
 | **Day 17** | Sept 17, 2026 | Hotel Feedback Form Workshop & Working with Tables Theory | Completed Hotel Feedback Form workshop and theory on HTML tables usage | [Read Log](./logs/day-17.md) |
 | **Day 18** | Sept 18, 2026 | Tables, Catalog Lab, Tools, Review & Quiz | Completed Final Exams Table workshop, Book Catalog lab, HTML Tools theory, Tables/Forms review, and passed the module quiz | [Read Log](./logs/day-18.md) |
 | **Day 19** | Sept 19, 2026 | Build a Survey Form Certification Project | Built and submitted the Survey Form certification project with custom form controls and labels | [Read Log](./logs/day-19.md) |
+| **Day 20** | Sept 20, 2026 | Accessibility & Good HTML Structure Theory | Completed theory on assistive technologies, auditing tools, and heading hierarchies | [Read Log](./logs/day-20.md) |
