@@ -1,4 +1,4 @@
-# freeCodeCamp Responsive Web Design — DevLog
+# freeCodeCamp's Responsive Web Design Journey
 
 **Course:** freeCodeCamp Responsive Web Design  
 
