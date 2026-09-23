@@ -30,3 +30,4 @@
 | **Day 20** | Sept 20, 2026 | Accessibility & Good HTML Structure Theory | Completed theory on assistive technologies, auditing tools, and heading hierarchies | [Read Log](./logs/day-20.md) |
 | **Day 21** | Sept 21, 2026 | Debug a Coding Journey Blog Page Workshop | Completed all 9 steps debugging accessibility and structural markup issues in a blog page | [Read Log](./logs/day-21.md) |
 | **Day 22** | Sept 22, 2026 | Working with Accessible Tables & Forms Theory | Completed theory on accessibility best practices for tables and form label associations | [Read Log](./logs/day-22.md) |
+| **Day 23** | Sept 23, 2026 | Build a Tech Conference Schedule Table Workshop | Completed all 14 steps building an accessible schedule table using semantic table tags | [Read Log](./logs/day-23.md) |
