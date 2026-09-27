@@ -33,5 +33,4 @@
 | **Day 23** | Sept 23, 2026 | Build a Tech Conference Schedule Table Workshop | Completed all 14 steps building an accessible schedule table using semantic table tags | [Read Log](./logs/day-23.md) |
 | **Day 24** | Sept 24, 2026 | Debug a Donation Form Lab | Passed lab fixing form label associations and structural fieldset accessibility | [Read Log](./logs/day-24.md) |
 | **Day 25** | Sept 25, 2026 | Introduction to ARIA Theory | Completed theory on ARIA attributes, including `aria-label` and `aria-labelledby` usage | [Read Log](./logs/day-25.md) |
-| **Day 27** | Sept 27, 2026 | Introduction to ARIA Theory | Completed full theory module on ARIA roles, `aria-label`, `aria-labelledby`, `aria-hidden`, and `aria-describedby` | [Read Log](./logs/day-27.md) |
-
+| **Day 27** | Sept 27, 2026 | Introduction to ARIA & Audio Controller Workshop | Completed full ARIA theory and built an accessible audio controller UI | [Read Log](./logs/day-27.md) |
