@@ -1,21 +1,18 @@
-# Day 27: Sept 27, 2026 — ARIA, Audio Controller, Media Theory, Checkout, Movie Review & Multimedia Player Labs
+# Day 27: Sept 27, 2026 — Accessibility Completion & Full HTML Module Mastery
 
 ### 📝 Today's Progress
-Completed the **Introduction to ARIA** theory module, finished all 7 steps of the **Build an Accessible Audio Controller** workshop, completed the **Working with Accessible Media Elements** theory section, and passed the **Build a Checkout Page**, **Design a Movie Review Page**, and **Build a Multimedia Player** labs.
+Completed the full **Accessibility** module (55/55 steps) and finalized the overall **HTML** curriculum section (302/302 steps completed). This included ARIA theory[cite: 11], the Audio Controller workshop[cite: 12], media accessibility theory[cite: 9], three practical labs (Checkout Page, Movie Review, Multimedia Player)[cite: 10, 11, 12], and the comprehensive HTML Review modules[cite: 13].
 
 ### 💡 Key Takeaways
 
-**1. ARIA Roles & Attributes**  
-Learned how WAI-ARIA defines roles (e.g., `button`, `navigation`) and attributes like `aria-label`, `aria-labelledby`, and `aria-describedby` to communicate element purposes and supplementary context to screen readers. Utilized `aria-hidden="true"` to hide decorative elements.
+**1. ARIA & Screen Reader Accessibility**  
+Mastered WAI-ARIA roles, states, and attributes (`aria-label`, `aria-labelledby`, `aria-describedby`, `aria-hidden`) to build fully accessible web controls and non-text visual indicators[cite: 10, 11].
 
-**2. Accessible Custom Media UI**  
-Applied ARIA properties, audio tracks, native `<video>`/`<audio>` tags, and semantic markup to create custom media player controls that convey interactive state and controls clearly to screen readers[cite: 12].
+**2. Practical Accessible Implementations**  
+Built accessible interface components including custom media players with audio tracks, structured checkout form controls with programmatically linked helper texts, and semantic review layouts[cite: 10, 12].
 
-**3. Media & Keyboard Accessibility**  
-Reviewed guidelines for descriptive alt text, meaningful link anchor text, and strategies for making audio/video content accessible (captions, transcripts). Reaffirmed keyboard navigation principles (visible focus indicators, logical tab order).
-
-**4. Accessible Layout & Form Implementation**  
-Built accessible interface layouts using `aria-hidden="true"` on decorative visual indicators, `aria-describedby` for inputs with associated helper text, and proper HTML5 landmark structure.
+**3. HTML Curriculum Milestone**  
+Successfully finished all foundational HTML sections: Basic HTML, Semantic HTML, Forms & Tables, Build a Survey Form certification project, and Accessibility[cite: 13]. Tying all core markup concepts together before transitioning to CSS[cite: 13].
 
 ---
-*Next up: HTML Accessibility Review & Quiz*
+*Next up: CSS or Computers module*
