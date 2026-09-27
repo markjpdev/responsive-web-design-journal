@@ -1,18 +1,18 @@
-# Day 27: Sept 27, 2026 — Introduction to ARIA & Accessible Audio Controller Workshop
+# Day 27: Sept 27, 2026 — ARIA, Audio Controller Workshop & Accessible Media Theory
 
 ### 📝 Today's Progress
-Completed the full **Introduction to ARIA** theory module and finished all 7 steps of the **Build an Accessible Audio Controller** workshop[cite: 11, 12].
+Completed the **Introduction to ARIA** theory module, finished all 7 steps of the **Build an Accessible Audio Controller** workshop, and completed the **Working with Accessible Media Elements** theory section.
 
 ### 💡 Key Takeaways
 
-**1. ARIA Roles & Purpose**  
-Learned that WAI-ARIA defines roles (e.g., `button`, `navigation`, `dialog`) to describe the main purpose of non-semantic HTML elements to screen readers when native semantic tags cannot be used[cite: 11].
+**1. ARIA Roles & Attributes**  
+Learned how WAI-ARIA defines roles (e.g., `button`, `navigation`) and attributes like `aria-label`, `aria-labelledby`, and `aria-describedby` to communicate element purposes and supplementary context to screen readers. Utilized `aria-hidden="true"` to hide decorative elements.
 
-**2. Labelling & Description Attributes**  
-Utilized `aria-label` for invisible text labels, `aria-labelledby` to reference visible DOM text nodes as labels, and `aria-describedby` to link supplementary context or error messages to an element[cite: 10, 11].
+**2. Accessible Custom Controls**  
+Applied ARIA properties alongside semantic markup to create custom media player buttons (play, pause, stop, volume) that convey interactive states clearly.
 
-**3. Accessible Audio Controls**  
-Applied ARIA attributes and semantic HTML to create custom audio player control buttons (play, pause, stop, volume) that properly convey state and function to screen readers[cite: 12].
+**3. Media & Keyboard Accessibility**  
+Reviewed guidelines for descriptive alt text, meaningful link anchor text, and strategies for making audio/video content accessible (captions, transcripts)[cite: 9]. Reaffirmed keyboard navigation principles (visible focus indicators, logical tab order)[cite: 9].
 
 ---
-*Next up: Working with Accessible Media Elements (Theory)*
+*Next up: Build a Checkout Page (Lab)*
