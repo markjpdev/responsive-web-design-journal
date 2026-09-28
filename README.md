@@ -33,5 +33,6 @@
 | **Day 23** | Sept 23, 2026 | Build a Tech Conference Schedule Table Workshop | Completed all 14 steps building an accessible schedule table using semantic table tags | [Read Log](./logs/day-23.md) |
 | **Day 24** | Sept 24, 2026 | Debug a Donation Form Lab | Passed lab fixing form label associations and structural fieldset accessibility | [Read Log](./logs/day-24.md) |
 | **Day 25** | Sept 25, 2026 | Introduction to ARIA Theory | Completed theory on ARIA attributes, including `aria-label` and `aria-labelledby` usage | [Read Log](./logs/day-25.md) |
+| **Day 28** | Sept 28, 2026 | Understanding Computer, Internet & Tooling Basics | Completed theory covering hardware, ISP connectivity, system security, and developer tools | [Read Log](./logs/day-28.md) |
 | **Day 27** | Sept 27, 2026 | Full HTML Curriculum Completion | Completed Accessibility module (55/55) and finalized entire HTML section (302/302 steps) | [Read Log](./logs/day-27.md) |
 
