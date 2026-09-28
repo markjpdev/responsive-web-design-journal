@@ -34,4 +34,4 @@
 | **Day 24** | Sept 24, 2026 | Debug a Donation Form Lab | Passed lab fixing form label associations and structural fieldset accessibility | [Read Log](./logs/day-24.md) |
 | **Day 25** | Sept 25, 2026 | Introduction to ARIA Theory | Completed theory on ARIA attributes, including `aria-label` and `aria-labelledby` usage | [Read Log](./logs/day-25.md) |
 | **Day 27** | Sept 27, 2026 | Full HTML Curriculum Completion | Completed Accessibility module (55/55) and finalized entire HTML section (302/302 steps) | [Read Log](./logs/day-27.md) |
-| **Day 28** | Sept 28, 2026 | Tooling Basics & Working with File Systems Theory | Completed theory covering hardware, developer tools, web file naming conventions, and project organization | [Read Log](./logs/day-28.md) |
+| **Day 28** | Sept 28, 2026 | Tooling, File Systems & Web Browsing Theory | Completed theory modules on hardware/tools, file system best practices, and effective search/browsing strategies | [Read Log](./logs/day-28.md) |
