@@ -1,20 +1,17 @@
-# Day 30: Sept 30, 2026 — What Is CSS? Theory Module Completion
+# Day 30: Sept 30, 2026 — What Is CSS? Theory Completion & Design a Cafe Menu Workshop Start
 
 ### 📝 Today's Progress
-Completed all 10 lessons in the **What Is CSS?** theory module under Basic CSS, covering syntax anatomy, meta viewport setup, CSS inclusion methods, box sizing, combinators, display behaviors, and spacing.
+Completed all 10 lessons in the **What Is CSS?** theory module under Basic CSS and initiated the **Design a Cafe Menu** workshop (progressed through Step 7)[cite: 13].
 
 ### 💡 Key Takeaways
 
-**1. Syntax & Inclusion Best Practices**
-- Explored CSS anatomy (selectors, properties, values) and default browser user-agent styles[cite: 16].
-- Evaluated inline, internal, and external CSS, prioritizing external stylesheets (`<link rel="stylesheet">`) for maintainability[cite: 15, 16].
-- Configured the `<meta name="viewport" content="width=device-width, initial-scale=1.0">` tag to ensure proper mobile rendering[cite: 16].
+**1. CSS Syntax & Rules**
+- Mastered CSS selector and declaration block structure (`element { property: value; }`)[cite: 13].
+- Practiced internal stylesheet configuration via the `<style>` tag within the `<head>` section[cite: 13].
 
-**2. Box Model & Combinators**
-- Learned how explicit `width` and `height` dimensions interact with elements[cite: 16].
-- Mastered CSS combinators (descendant, child `>`, adjacent sibling `+`, general sibling `~`) for precise DOM element targeting[cite: 16].
-- Differentiated display properties: `block` (full width), `inline` (content-width only), and `inline-block` (inline flow with customizable dimensions)[cite: 15, 16].
-- Utilized `margin` (outer spacing) and `padding` (inner spacing) to control box layout and whitespace[cite: 16].
+**2. Core Theory Review**
+- Evaluated external vs. internal stylesheets and configured the viewport meta tag for responsive scaling.
+- Reviewed CSS combinators, display behaviors (`block`, `inline`, `inline-block`), and box model spacing (`margin` vs. `padding`).
 
 ---
-*Next up: Design a Cafe Menu (Workshop)*
+*Next up: Design a Cafe Menu (Step 7 onward)*
