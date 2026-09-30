@@ -1,17 +1,17 @@
-# Day 30: Sept 30, 2026 — What Is CSS? Theory Completion & Design a Cafe Menu Workshop Start
+# Day 30: Sept 30, 2026 — What Is CSS? Theory Completion & Design a Cafe Menu Workshop Progress
 
 ### 📝 Today's Progress
-Completed all 10 lessons in the **What Is CSS?** theory module under Basic CSS and initiated the **Design a Cafe Menu** workshop (progressed through Step 7)[cite: 13].
+Completed all 10 lessons in the **What Is CSS?** theory module under Basic CSS and made significant progress in the **Design a Cafe Menu** workshop, reaching Step 25[cite: 14].
 
 ### 💡 Key Takeaways
 
-**1. CSS Syntax & Rules**
-- Mastered CSS selector and declaration block structure (`element { property: value; }`)[cite: 13].
-- Practiced internal stylesheet configuration via the `<style>` tag within the `<head>` section[cite: 13].
+**1. CSS Styling & Layout Foundations**
+- Applied background images using `background-image: url(...)` and grouped CSS selectors (`h1, h2, p`)[cite: 14].
+- Centered layout containers (`.menu`) using explicit percentages (`width: 80%`) alongside `margin-left: auto` and `margin-right: auto`[cite: 14].
+- Integrated external stylesheets via `<link rel="stylesheet" href="styles.css">` and configured viewport metadata[cite: 14].
 
-**2. Core Theory Review**
-- Evaluated external vs. internal stylesheets and configured the viewport meta tag for responsive scaling.
-- Reviewed CSS combinators, display behaviors (`block`, `inline`, `inline-block`), and box model spacing (`margin` vs. `padding`).
+**2. Semantic Structuring for UI Components**
+- Utilized `<article>` elements within semantic `<section>` blocks to encapsulate itemized menu content like flavors and pricing[cite: 14].
 
 ---
-*Next up: Design a Cafe Menu (Step 7 onward)*
+*Next up: Design a Cafe Menu (Step 25 onward)*
