@@ -36,4 +36,4 @@
 | **Day 27** | Sept 27, 2026 | Full HTML Curriculum Completion | Completed Accessibility module (55/55) and finalized entire HTML section (302/302 steps) | [Read Log](./logs/day-27.md) |
 | **Day 28** | Sept 28, 2026 | Complete Computers Section Mastery | Completed all 16 steps of the Computers module including Tooling, File Systems, Web Browsing, and the final Quiz | [Read Log](./logs/day-28.md) |
 | **Day 29** | Sept 29, 2026 | Introduction to CSS Display Properties Theory | Started CSS track; learned operational differences between inline, block, and inline-block display modes | [Read Log](./logs/day-29.md) |
-| **Day 30** | Sept 30, 2026 | What Is CSS? Theory & Cafe Menu Workshop Start | Completed all 10 theory lessons in Basic CSS and started Design a Cafe Menu workshop | [Read Log](./logs/day-30.md) |
+| **Day 30** | Sept 30, 2026 | What Is CSS? Theory & Cafe Menu Workshop Progress | Completed all 10 theory lessons in Basic CSS and progressed to Step 25 of Design a Cafe Menu workshop | [Read Log](./logs/day-30.md) |
