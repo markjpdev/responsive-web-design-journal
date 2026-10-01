@@ -1,17 +1,20 @@
-# Day 30: Sept 30, 2026 — What Is CSS? Theory Completion & Design a Cafe Menu Workshop Progress
+# Day 31: Oct 1, 2026 — Design a Cafe Menu Workshop Progress (Step 58)
 
 ### 📝 Today's Progress
-Completed all 10 lessons in the **What Is CSS?** theory module under Basic CSS and made significant progress in the **Design a Cafe Menu** workshop, reaching Step 25[cite: 14].
+Continued the **Design a Cafe Menu** workshop under Basic CSS, advancing through Step 58[cite: 15]. 
 
 ### 💡 Key Takeaways
 
-**1. CSS Styling & Layout Foundations**
-- Applied background images using `background-image: url(...)` and grouped CSS selectors (`h1, h2, p`)[cite: 14].
-- Centered layout containers (`.menu`) using explicit percentages (`width: 80%`) alongside `margin-left: auto` and `margin-right: auto`[cite: 14].
-- Integrated external stylesheets via `<link rel="stylesheet" href="styles.css">` and configured viewport metadata[cite: 14].
+**1. Typography & Font Styling**
+- Configured default document font stacks (`font-family: sans-serif`) on the `body` selector[cite: 15].
+- Applied explicit fallbacks and custom typefaces (`font-family: Impact, serif`) across heading elements (`h1, h2`)[cite: 15].
+- Adjusted heading hierarchy scaling using custom `font-size` values (`40px` for `h1`, `30px` for `h2`)[cite: 15].
+- Applied `font-style: italic` to class selectors (`.established`)[cite: 15].
 
-**2. Semantic Structuring for UI Components**
-- Utilized `<article>` elements within semantic `<section>` blocks to encapsulate itemized menu content like flavors and pricing[cite: 14].
+**2. Layout & Spacing Control**
+- Constrained container growth using `max-width: 500px` alongside `width: 80%` and auto margins[cite: 15].
+- Applied inner container padding (`padding: 20px`)[cite: 15].
+- Utilized `display: inline-block` on menu item paragraphs (`.item p`) to align flavors and prices side by side[cite: 15].
 
 ---
-*Next up: Design a Cafe Menu (Step 25 onward)*
+*Next up: Design a Cafe Menu (Step 58 onward)*
