@@ -38,3 +38,4 @@
 | **Day 29** | Sept 29, 2026 | Introduction to CSS Display Properties Theory | Started CSS track; learned operational differences between inline, block, and inline-block display modes | [Read Log](./logs/day-29.md) |
 | **Day 30** | Sept 30, 2026 | What Is CSS? Theory & Cafe Menu Workshop Progress | Completed all 10 theory lessons in Basic CSS and progressed to Step 25 of Design a Cafe Menu workshop | [Read Log](./logs/day-30.md) |
 | **Day 31** | Oct 1, 2026 | Cafe Menu Workshop Progress | Advanced to Step 58 of Design a Cafe Menu workshop covering typography, sizing constraints, and inline-block item alignment | [Read Log](./logs/day-31.md) |
+| **Day 32** | Oct 3, 2026 | Design a Cafe Menu Workshop Completion | Completed all 89 steps of the Cafe Menu workshop covering layout alignment, negative margins, and image centering | [Read Log](./logs/day-32.md) |
