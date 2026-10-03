@@ -1,7 +1,7 @@
 # Day 32: Oct 3, 2026 — Design a Cafe Menu Workshop Completion
 
 ### 📝 Today's Progress
-Completed all 89 steps of the **Design a Cafe Menu** workshop under Basic CSS.
+Completed all 89 steps of the **Design a Cafe Menu** workshop under CSS.
 
 ### 💡 Key Takeaways
 
