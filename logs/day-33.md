@@ -1,20 +1,21 @@
-# Day 33: Oct 4, 2026 — Styling Lists & Links Theory and Stylized To-Do List Lab
+# Day 33: Oct 4, 2026 — Styling Lists/Links & Backgrounds and Borders Theory
 
 ### 📝 Today's Progress
-Completed the **Styling Lists and Links** theory section and finished the practical **Build a Stylized To-Do List** lab under Basic CSS.
+Completed the **Styling Lists and Links** theory section, finished the practical **Build a Stylized To-Do List** lab, and completed the **Working with Backgrounds and Borders** theory module under Basic CSS.
 
 ### 💡 Key Takeaways
 
 **1. List Formatting & Navigation Styling**
-- Customised list markers using `list-style-type`, `list-style-position`, and `list-style-image` properties[cite: 16].
-- Controlled default padding/margin resets on unordered (`<ul>`) and ordered (`<ol>`) lists to build clean structural components[cite: 16].
+- Customized list markers (`list-style-type`, `list-style-position`, `list-style-image`) and reset default padding/margins on unordered (`<ul>`) and ordered (`<ol>`) lists.
+- Applied link pseudo-classes (`:link`, `:visited`, `:hover`, `:active`, `:focus`) in proper LVHA cascade order for accessible state feedback.
 
-**2. Link Pseudo-Classes & State UX**
-- Applied pseudo-class selectors (`:link`, `:visited`, `:hover`, `:active`, `:focus`) in proper cascade order (LVHA) to deliver accessible user feedback state changes[cite: 16].
-- Managed anchor element styling via `text-decoration` removals and color state updates[cite: 16].
+**2. Background Controls & Gradients**
+- Mastered background image sizing (`background-size`), repeat behavior (`background-repeat`), positioning (`background-position`), and scroll attachment (`background-attachment`).
+- Generated linear and radial CSS gradients (`linear-gradient`, `radial-gradient`) for fluid background patterns without image dependencies.
 
-**3. Practical Component Build**
-- Combined custom list formatting, checkbox input alignments, text decoration toggles, and state styling to build a standalone Stylized To-Do List UI component[cite: 16].
+**3. Background Accessibility & Image Borders**
+- Evaluated contrast ratios between background images/gradients and overlaid text to ensure readable contrast for visual accessibility.
+- Explored border properties (`border`, `border-radius`, `outline`, `box-shadow`) to style frame containers and image elements cleanly.
 
 ---
-*Next up: Working with Backgrounds and Borders (Theory)*
+*Next up: Design a Blog Post Card (Lab)*
