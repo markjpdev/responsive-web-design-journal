@@ -39,4 +39,4 @@
 | **Day 30** | Sept 30, 2026 | What Is CSS? Theory & Cafe Menu Workshop Progress | Completed all 10 theory lessons in Basic CSS and progressed to Step 25 of Design a Cafe Menu workshop | [Read Log](./logs/day-30.md) |
 | **Day 31** | Oct 1, 2026 | Cafe Menu Workshop Progress | Advanced to Step 58 of Design a Cafe Menu workshop covering typography, sizing constraints, and inline-block item alignment | [Read Log](./logs/day-31.md) |
 | **Day 32** | Oct 3, 2026 | CSS Fundamentals Mastery (Cafe Menu, Business Card & Quiz) | Completed Cafe Menu workshop, Business Card lab, Specificity/Cascade theory, Review, and Quiz (110 total CSS steps) | [Read Log](./logs/day-32.md) |
-| **Day 33** | Oct 4, 2026 | Styling Lists & Links Theory & To-Do List Lab | Completed theory on list formatting and link pseudo-classes, and built the Stylized To-Do List lab | [Read Log](./logs/day-33.md) |
+| **Day 33** | Oct 4, 2026 | Lists, Links & Backgrounds/Borders Theory | Completed theory on lists, links, to-do list lab, and backgrounds/borders theory module | [Read Log](./logs/day-33.md) |
