@@ -40,4 +40,4 @@
 | **Day 31** | Oct 1, 2026 | Cafe Menu Workshop Progress | Advanced to Step 58 of Design a Cafe Menu workshop covering typography, sizing constraints, and inline-block item alignment | [Read Log](./logs/day-31.md) |
 | **Day 32** | Oct 3, 2026 | CSS Fundamentals Mastery (Cafe Menu, Business Card & Quiz) | Completed Cafe Menu workshop, Business Card lab, Specificity/Cascade theory, Review, and Quiz (110 total CSS steps) | [Read Log](./logs/day-32.md) |
 | **Day 33** | Oct 4, 2026 | Lists, Links & Backgrounds/Borders Theory | Completed theory on lists, links, to-do list lab, and backgrounds/borders theory module | [Read Log](./logs/day-33.md) |
-| **Day 34** | Oct 5, 2026 | Basic CSS Completion, UI & User-Centered Design | Completed Blog Post Card lab, Basic CSS review/quiz, UI Design Fundamentals, and User-Centered Design theory modules | [Read Log](./logs/day-34.md) |
+| **Day 34** | Oct 5, 2026 | Basic CSS Completion & Full Design Theory Modules | Completed Blog Post Card lab, Basic CSS review/quiz, and all Design theory modules (UI Fundamentals, UCD, Common Design Tools) | [Read Log](./logs/day-34.md) |
