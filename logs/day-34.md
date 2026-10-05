@@ -1,23 +1,21 @@
-# Day 34: Oct 5, 2026 — Basic CSS Completion & Full Design Theory Modules
+# Day 34: Oct 5, 2026 — Basic CSS & Design Theory Track Completion
 
 ### 📝 Today's Progress
-Completed the practical **Design a Blog Post Card** lab, cleared the **Lists, Links, CSS Background and Borders Review**, passed the **CSS Backgrounds and Borders Quiz**, and completed all three theory sub-modules under Design (**User Interface Design Fundamentals**, **User-Centered Design**, and **Common Design Tools**).
+Completed the practical **Design a Blog Post Card** lab, cleared the **Lists, Links, CSS Background and Borders Review**, passed the **CSS Backgrounds and Borders Quiz**, completed all three **Design** theory sub-modules, and finished the **Design Fundamentals Review & Quiz**—officially wrapping up both Basic CSS and Design theory tracks.
 
 ### 💡 Key Takeaways
 
-**1. Blog Post Card Component Architecture**
-- Constructed a self-contained blog post card component by integrating background images, borders, and custom typography.
-- Styled card containers using `border-radius`, explicit box shadows (`box-shadow`), and padding to elevate visual hierarchy.
+**1. Component Architecture & Basic CSS Wrap-Up**
+- Built a standalone blog post card component utilizing card container borders, `border-radius`, explicit `box-shadow` values, and responsive image containment.
+- Consolidated concepts on list properties, link pseudo-class cascade states (`:link`, `:visited`, `:hover`, `:active`, `:focus`), gradients, and contrast accessibility.
 
-**2. UI Design & User-Centered Design Principles**
-- **Terminology & Communication:** Mastered essential UI design terms (wireframes, mockups, prototypes) to collaborate effectively with design teams.
-- **Visual Hierarchy & Contrast:** Utilized scale, background/foreground contrast ratios, and intentional alignment to guide user focus and improve readability.
-- **Whitespace & Progressive Enhancement:** Applied whitespace strategic breathing room to prevent cognitive overload and adopted a progressive enhancement strategy for reliable core functionality.
-- **UCD Patterns & UX Practices:** Evaluated optimal UX patterns for dark mode, breadcrumbs, card UI designs, infinite scrolling, modal dialogs, shopping carts, progressive disclosure, and deferred/lazy registration.
+**2. UI & User-Centered Design Principles**
+- Mastered key terminology (wireframes, mockups, prototypes), visual hierarchy, contrast ratios, and whitespace management.
+- Evaluated core UX patterns including dark mode implementation, breadcrumb navigation, card UI designs, infinite scrolling, modal dialogs, and progressive disclosure.
 
-**3. Common Design Tools & Developer-Designer Collaboration**
-- **Design Briefs:** Explored how developers read and execute design briefs, translating project specifications, scope, and target audience needs into technical implementation plans[cite: 16].
-- **Industry Design Tools:** Familiarized with key design software used across product teams (e.g., Figma, Sketch, Adobe XD) to extract assets, inspect layout properties, and ensure precise CSS implementations[cite: 16].
+**3. Design Tools & Fundamentals Verification**
+- Explored developer-designer collaboration workflows, design briefs, and key tooling (Figma, Sketch, Adobe XD) for inspecting CSS properties and extracting assets.
+- Cleared the Design Fundamentals Review and passed the Quiz to solidify UI/UX theory principles before diving back into CSS layout units.
 
 ---
-*Next up: Design Fundamentals Review & Quiz*
+*Next up: Absolute and Relative Units (Theory)*
