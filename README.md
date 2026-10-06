@@ -41,4 +41,4 @@
 | **Day 32** | Oct 3, 2026 | CSS Fundamentals Mastery (Cafe Menu, Business Card & Quiz) | Completed Cafe Menu workshop, Business Card lab, Specificity/Cascade theory, Review, and Quiz (110 total CSS steps) | [Read Log](./logs/day-32.md) |
 | **Day 33** | Oct 4, 2026 | Lists, Links & Backgrounds/Borders Theory | Completed theory on lists, links, to-do list lab, and backgrounds/borders theory module | [Read Log](./logs/day-33.md) |
 | **Day 34** | Oct 5, 2026 | Basic CSS & Design Theory Track Completion | Completed Blog Post Card lab, Basic CSS review/quiz, full Design theory modules, and Design Fundamentals quiz | [Read Log](./logs/day-34.md) |
-| **Day 35** | Oct 6, 2026 | Relative and Absolute Units & Event Flyer Lab | Completed theory on relative/absolute units and built the Event Flyer Page lab | [Read Log](./logs/day-35.md) |
+| **Day 35** | Oct 6, 2026 | Relative and Absolute Units Section Completion | Completed theory, Event Flyer lab, review, and quiz for Absolute & Relative Units (153 total steps) | [Read Log](./logs/day-35.md) |
