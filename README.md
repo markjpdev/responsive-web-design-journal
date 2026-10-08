@@ -43,3 +43,4 @@
 | **Day 34** | Oct 5, 2026 | Basic CSS & Design Theory Track Completion | Completed Blog Post Card lab, Basic CSS review/quiz, full Design theory modules, and Design Fundamentals quiz | [Read Log](./logs/day-34.md) |
 | **Day 35** | Oct 6, 2026 | Relative and Absolute Units Section Completion | Completed theory, Event Flyer lab, review, and quiz for Absolute & Relative Units (153 total steps) | [Read Log](./logs/day-35.md) |
 | **Day 36** | Oct 7, 2026 | Pseudo-Classes & Pseudo-Elements Theory | Completed theory module covering user action, input, structural, and functional pseudo-classes plus pseudo-elements | [Read Log](./logs/day-36.md) |
+| **Day 37** | Oct 8, 2026 | Design a Greeting Card Workshop | Completed 27-step workshop styling an interactive card with pseudo-classes, pseudo-elements, and CSS transitions | [Read Log](./logs/day-37.md) |
