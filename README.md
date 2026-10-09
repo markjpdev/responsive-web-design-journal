@@ -44,3 +44,4 @@
 | **Day 35** | Oct 6, 2026 | Relative and Absolute Units Section Completion | Completed theory, Event Flyer lab, review, and quiz for Absolute & Relative Units (153 total steps) | [Read Log](./logs/day-35.md) |
 | **Day 36** | Oct 7, 2026 | Pseudo-Classes & Pseudo-Elements Theory | Completed theory module covering user action, input, structural, and functional pseudo-classes plus pseudo-elements | [Read Log](./logs/day-36.md) |
 | **Day 37** | Oct 8, 2026 | Greeting Card & Parent-Teacher Conference Form Workshops | Completed 27-step Greeting Card and 37-step Parent Teacher Conference Form workshops applying pseudo-classes and pseudo-elements | [Read Log](./logs/day-37.md) |
+| **Day 38** | Oct 9, 2026 | Build a Job Application Form Lab | Built a job application form lab applying state pseudo-classes, focus indicators, and placeholder styling | [Read Log](./logs/day-38.md) |
