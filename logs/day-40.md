@@ -1,17 +1,16 @@
-# Day 40: Oct 11, 2026 — Colored Markers Workshop Progress
+# Day 40: Oct 11, 2026 — Build a Set of Colored Markers Workshop Completion
 
 ### 📝 Today's Progress
-Continued building the **Build a Set of Colored Markers** workshop, reaching Step 73.
+Completed all 89 steps of the interactive **Build a Set of Colored Markers** workshop under the Colors section.
 
 ### 💡 Key Takeaways
 
 **1. CSS Display Modes & Inline-Block Layout**
-- Understood the default `block` behavior of `div` elements, which forces elements onto new lines.
-- Applied `display: inline-block` to `.cap` and `.sleeve` rules simultaneously to align marker components side-by-side horizontally.
+- Applied `display: inline-block` to combine `.cap` and `.sleeve` elements on the same line horizontally, overriding default block stacking rules.
 
-**2. Multi-Color Gradients & Alpha Channel Transparency**
-- Constructed multi-stop linear gradients across RGB (`rgb()`), Hexadecimal, and HSL (`hsl()`) color rules.
-- Utilized `rgba()` transparency on marker sleeve overlays to blend colors and add visual dimension.
+**2. Multi-Color Gradients & Depth Styling**
+- Built multi-stop linear gradients across RGB (`rgb()`), Hexadecimal, and HSL (`hsl()`) color functions to simulate lighting, shadow, and 3D depth on realistic marker components.
+- Utilized `rgba()` alpha transparency channels on semi-transparent marker sleeves to blend underlying background colors smoothly.
 
 ---
-*Next up: Finish remaining steps of Build a Set of Colored Markers (Workshop)*
+*Next up: Design a Set of Colored Boxes (Lab)*[cite: 17]
