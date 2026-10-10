@@ -1,21 +1,19 @@
-# Day 39: Oct 10, 2026 — Working with Colors in CSS Theory
+# Day 39: Oct 10, 2026 — Colors Theory & Colored Markers Workshop Progress
 
 ### 📝 Today's Progress
-Completed the **Working with Colors in CSS** theory module under the Colors section.
+Completed the entire **Working with Colors in CSS** theory module and made substantial progress in the **Build a Set of Colored Markers** workshop (in progress through Step 43)[cite: 15].
 
 ### 💡 Key Takeaways
 
-**1. Color Theory & Named Colors**
-- Explored core color theory principles (contrast, harmony, and emotional resonance) in web design.
-- Reviewed standard CSS named colors and understood when to use them for quick prototyping versus production designs.
+**1. Color Theory & Representation Models**
+- Explored contrast, harmony, and standard CSS named colors for baseline styling.
+- Practiced translating color representations between RGB (`rgb()`), Hexadecimal codes, and HSL (`hsl()`).
 
-**2. Color Models (RGB, HSL, Hex Codes)**
-- **RGB & RGBA:** Utilized `rgb()` and `rgba()` functions to configure additive color values alongside alpha transparency.
-- **HSL & HSLA:** Mastered Hue, Saturation, and Lightness (`hsl()`) for intuitive color adjustments and theme manipulation.
-- **Hex Codes:** Parsed 3-digit and 6-digit hexadecimal color codes for concise color declarations.
-
-**3. Gradients**
-- Implemented linear (`linear-gradient`) and radial (`radial-gradient`) color transitions to build dynamic backgrounds.
+**2. HSL Color Model Mastery**
+- Applied `hsl(hue, saturation, lightness)` parameters:
+  - **Hue:** Direction on the 360° color wheel (0 = Red, 120 = Green, 240 = Blue)[cite: 15].
+  - **Saturation:** Color intensity from 0% (grayscale) to 100% (pure color)[cite: 15].
+  - **Lightness:** Brightness from 0% (black) to 100% (white), with 50% as neutral[cite: 15].
 
 ---
-*Next up: Build a Set of Colored Markers (Workshop)*
+*Next up: Complete remaining steps of Build a Set of Colored Markers (Workshop)*
