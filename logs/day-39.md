@@ -1,17 +1,21 @@
-# Day 39: Oct 10, 2026 — Pseudo-Classes & Pseudo-Elements Section Completion
+# Day 39: Oct 10, 2026 — Working with Colors in CSS Theory
 
 ### 📝 Today's Progress
-Completed the **CSS Pseudo-classes Review** and passed the **CSS Pseudo-classes Quiz**—officially finishing the entire **Pseudo Classes and Elements** section.
+Completed the **Working with Colors in CSS** theory module under the Colors section.
 
 ### 💡 Key Takeaways
 
-**1. State & Structural Selectors**
-- Validated core concepts around user action (`:hover`, `:focus`, `:active`), form input states (`:required`, `:checked`, `:valid`, `:invalid`), and structural hierarchy selectors (`:nth-child()`, `:first-of-type`).
-- Reviewed functional pseudo-classes (`:is()`, `:where()`, `:not()`, `:has()`) for managing selector specificity and relational logic.
+**1. Color Theory & Named Colors**
+- Explored core color theory principles (contrast, harmony, and emotional resonance) in web design.
+- Reviewed standard CSS named colors and understood when to use them for quick prototyping versus production designs.
 
-**2. Generated Content & Assessment**
-- Consolidated pseudo-element usage (`::before`, `::after`, `::placeholder`, `::selection`) for presentational accents and content generation.
-- Successfully passed the section quiz, solidifying advanced selector patterns before moving on to color models.
+**2. Color Models (RGB, HSL, Hex Codes)**
+- **RGB & RGBA:** Utilized `rgb()` and `rgba()` functions to configure additive color values alongside alpha transparency.
+- **HSL & HSLA:** Mastered Hue, Saturation, and Lightness (`hsl()`) for intuitive color adjustments and theme manipulation.
+- **Hex Codes:** Parsed 3-digit and 6-digit hexadecimal color codes for concise color declarations.
+
+**3. Gradients**
+- Implemented linear (`linear-gradient`) and radial (`radial-gradient`) color transitions to build dynamic backgrounds.
 
 ---
-*Next up: Colors (0 of 98 steps complete)*
+*Next up: Build a Set of Colored Markers (Workshop)*
