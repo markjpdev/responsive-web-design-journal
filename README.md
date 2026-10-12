@@ -47,3 +47,4 @@
 | **Day 38** | Oct 9, 2026 | Build a Job Application Form Lab | Built a job application form lab applying state pseudo-classes, focus indicators, and placeholder styling | [Read Log](./logs/day-38.md) |
 | **Day 39** | Oct 10, 2026 | Working with Colors Theory & Marker Workshop | Completed Working with Colors theory module and progressed through Step 43 of Colored Markers workshop | [Read Log](./logs/day-39.md) |
 | **Day 40** | Oct 11, 2026 | Colors Completion & Registration Form Workshop | Finished Colors section, completed Styling Forms theory, and finished 61-step Design a Registration Form workshop | [Read Log](./logs/day-40.md) |
+| **Day 41** | Oct 12, 2026 | Design a Contact Form Lab | Completed Design a Contact Form lab applying semantic form controls, textarea styling, and focus indicators | [Read Log](./logs/day-41.md) |
