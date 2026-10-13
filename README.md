@@ -48,3 +48,4 @@
 | **Day 39** | Oct 10, 2026 | Working with Colors Theory & Marker Workshop | Completed Working with Colors theory module and progressed through Step 43 of Colored Markers workshop | [Read Log](./logs/day-39.md) |
 | **Day 40** | Oct 11, 2026 | Colors Completion & Registration Form Workshop | Finished Colors section, completed Styling Forms theory, and finished 61-step Design a Registration Form workshop | [Read Log](./logs/day-40.md) |
 | **Day 41** | Oct 12, 2026 | Styling Forms Section Completion | Finished Contact Form lab, Game Settings workshop, Feature Selection lab, Styling Forms review, and quiz (84/84 steps complete) | [Read Log](./logs/day-41.md) |
+| **Day 42** | Oct 13, 2026 | The Box Model Theory & Margin Collapsing | Started The Box Model section, covering vertical margin collapsing principles | [Read Log](./logs/day-42.md) |
