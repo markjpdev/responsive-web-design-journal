@@ -1,16 +1,18 @@
-# Day 42: Oct 13, 2026 — The Box Model Theory & Margin Collapsing
+# Day 42: Oct 13, 2026 — The Box Model Theory & Layout Concepts
 
 ### 📝 Today's Progress
-Started **The Box Model** module under the Responsive Web Design curriculum, diving into the theory lesson: *"What Is Margin Collapsing, and How Does It Work?"*
+Completed the **Working with CSS Transforms, Overflow, and Filters** theory module under The Box Model section (7 of 54 steps complete).
 
 ### 💡 Key Takeaways
 
-**1. Margin Collapsing Behavior**
-- Vertical margins (top and bottom) of adjacent block-level elements collapse into a single margin equal to the larger of the two values, rather than combining additively.
-- Horizontal margins (left and right) never collapse and will always add together.
+**1. Overflow, Box Model & Sizing**
+- **Overflow:** Explored how to control content spilling outside its container using properties like `hidden`, `scroll`, and `auto`.
+- **Box-Sizing:** Mastered the structural difference between `content-box` and `border-box` for predictable element dimension calculations.
+- **CSS Resets:** Reviewed common CSS reset patterns to normalize default browser margins, padding, and box-sizing rules across environments.
 
-**2. Layout Control Implications**
-- Understanding margin collapse prevents unexpected spacing gaps when stacking vertical layout components like headings, paragraphs, and container boxes.
+**2. Transforms, Filters & Margin Collapsing**
+- **Margin Collapsing:** Understood how vertical margins of adjacent block-level elements overlap into a single larger value, while horizontal margins remain additive.
+- **Transforms & Filters:** Reviewed transform functions (translation, scaling, rotation) and filter effects (blur, brightness, contrast) for advanced visual styling.
 
 ---
-*Next up: Complete remaining theory lessons in The Box Model module*
+*Next up: Design a Rothko Painting (Workshop)*[cite: 16]
