@@ -49,3 +49,4 @@
 | **Day 40** | Oct 11, 2026 | Colors Completion & Registration Form Workshop | Finished Colors section, completed Styling Forms theory, and finished 61-step Design a Registration Form workshop | [Read Log](./logs/day-40.md) |
 | **Day 41** | Oct 12, 2026 | Styling Forms Section Completion | Finished Contact Form lab, Game Settings workshop, Feature Selection lab, Styling Forms review, and quiz (84/84 steps complete) | [Read Log](./logs/day-41.md) |
 | **Day 42** | Oct 13, 2026 | The Box Model Theory Module | Completed the Working with CSS Transforms, Overflow, and Filters theory module (7/54 steps complete) | [Read Log](./logs/day-42.md) |
+| **Day 43** | Oct 14, 2026 | Design a Rothko Painting Workshop | Completed 44-step Rothko Painting workshop applying box model dimensions, margins, and canvas structuring (51/54 steps complete) | [Read Log](./logs/day-43.md) |
