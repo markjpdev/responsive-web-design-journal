@@ -50,3 +50,4 @@
 | **Day 41** | Oct 12, 2026 | Styling Forms Section Completion | Finished Contact Form lab, Game Settings workshop, Feature Selection lab, Styling Forms review, and quiz (84/84 steps complete) | [Read Log](./logs/day-41.md) |
 | **Day 42** | Oct 13, 2026 | The Box Model Theory Module | Completed the Working with CSS Transforms, Overflow, and Filters theory module (7/54 steps complete) | [Read Log](./logs/day-42.md) |
 | **Day 43** | Oct 14, 2026 | Box Model, Flexbox & Playing Cards Project | Completed The Box Model section, entire Flexbox module, and Build a Page of Playing Cards certification project[cite: 13] | [Read Log](./logs/day-43.md) |
+| **Day 44** | Oct 15, 2026 | Typography Theory & External Fonts | Started Typography section, covering Working with CSS Fonts theory and external font integration | [Read Log](./logs/day-44.md) |
