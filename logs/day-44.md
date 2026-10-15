@@ -1,13 +1,17 @@
-# Day 44: Oct 15, 2026 — Typography Module Theory & External Fonts
+# Day 44: Oct 15, 2026 — Typography Module Theory Completion
 
 ### 📝 Today's Progress
-Started the **Typography** module under the Responsive Web Design curriculum, diving into the theory lesson: *"Working with CSS Fonts"* covering external font integration via Google Fonts and Font Squirrel.
+Completed the full **Working with CSS Fonts** theory section under the **Typography** module, covering typography fundamentals, design best practices, font families, web-safe fonts, the `@font-face` at-rule, external fonts (Google Fonts and Font Squirrel), and the `text-shadow` property.
 
 ### 💡 Key Takeaways
 
-**1. External Fonts & Web Typography**
-- Learned how to incorporate external font families hosted on separate servers (like Google Fonts and Font Squirrel) into project styles for custom typography design.
-- Understood the flexibility external fonts provide when custom typefaces are not installed locally on the user's device.
+**1. Typography Fundamentals & Hierarchy**
+- Explored core principles of typography, readability, and design best practices for structuring clean text hierarchies on web pages[cite: 13].
+- Understood the mechanics of font families, generic font families, and reliable fallback stacks using web-safe fonts[cite: 13].
+
+**2. Custom Fonts & Advanced Text Effects**
+- Learned how to self-host custom fonts using the `@font-face` at-rule and how to link external font services like Google Fonts and Font Squirrel[cite: 13].
+- Explored styling text visually using the `text-shadow` property to add depth and stylistic emphasis[cite: 13].
 
 ---
-*Next up: Complete remaining theory lessons in the Typography module*
+*Next up: Build a Nutritional Label (Workshop)*[cite: 13]
