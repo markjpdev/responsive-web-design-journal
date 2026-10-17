@@ -52,3 +52,4 @@
 | **Day 43** | Oct 14, 2026 | Box Model, Flexbox & Playing Cards Project | Completed The Box Model section, entire Flexbox module, and Build a Page of Playing Cards certification project[cite: 13] | [Read Log](./logs/day-43.md) |
 | **Day 44** | Oct 15, 2026 | Typography Theory Completion | Completed the entire Working with CSS Fonts theory section covering typography fundamentals, web-safe fonts, `@font-face`, external fonts, and text-shadow[cite: 13] | [Read Log](./logs/day-44.md) |
 | **Day 45** | Oct 16, 2026 | Nutritional Label Workshop & Newspaper Article Lab | Completed Nutritional Label workshop and started Build a Newspaper Article lab under Typography | [Read Log](./logs/day-45.md) |
+| **Day 46** | Oct 17, 2026 | Newspaper Article Lab Completion | Completed the Build a Newspaper Article lab under the Typography module (76/78 steps complete)[cite: 13] | [Read Log](./logs/day-46.md) |
