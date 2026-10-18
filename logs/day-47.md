@@ -1,13 +1,17 @@
-# Day 47: Oct 18, 2026 — Quiz Webpage Workshop & Accessible ARIA Landmarks
+# Day 47: Oct 18, 2026 — Quiz Webpage Workshop & Flexbox Header Alignment
 
 ### 📝 Today's Progress
-Continued the **Accessibility** module by progressing through the **Build a Quiz Webpage** workshop, completing up through Step 15[cite: 13].
+Continued the **Accessibility** module by making massive headway in the **Build a Quiz Webpage** workshop, advancing all the way to **Step 48**[cite: 14]. Applied Flexbox container properties on the header to manage spacing and vertical alignment[cite: 14].
 
 ### 💡 Key Takeaways
 
-**1. Semantic Navigation & Accessible Form Structure**
-- Structured main navigation links (`<nav>`, `<ul>`, `<a>`) inside the header layout[cite: 13].
-- Implemented accessible section regions using explicit ARIA landmark roles (`role="region"`) within a form container[cite: 13].
+**1. Accessible Form & Landmark Architecture**
+- Implemented semantic fieldsets, legends, and region roles (`role="region"`) equipped with descriptive `aria-labelledby` attributes for screen reader compatibility.
+- Structured nested questions, student information sections, and interactive radio inputs.
+
+**2. Flexbox Header & Layout Styling**
+- Configured container flex properties (`display: flex`) on the `header` element to distribute space evenly and vertically center child elements[cite: 14].
+- Refined typography sizing using `min()` and `max()` functions alongside custom SVG logo styling with explicit `aspect-ratio` properties[cite: 14].
 
 ---
-*Next up: Step 16 of Build a Quiz Webpage (ARIA labeling with `aria-labelledby`)*[cite: 13]
+*Next up: Complete remaining steps of Build a Quiz Webpage (Workshop)*
