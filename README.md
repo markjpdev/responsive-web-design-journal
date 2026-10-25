@@ -60,4 +60,4 @@
 | **Day 51** | Oct 22, 2026 | Cat Painting Workshop Progress | Advanced through Build a Cat Painting workshop up to Step 26, styling cat ears with absolute positioning and custom borders[cite: 15] | [Read Log](./logs/day-51.md) |
 | **Day 52** | Oct 23, 2026 | Cat Painting Workshop Progress | Advanced through Build a Cat Painting workshop up to Step 52, detailing facial features with absolute positioning and transforms[cite: 15] | [Read Log](./logs/day-52.md) |
 | **Day 53** | Oct 24, 2026 | Positioning Section Completion | Completed House Painting lab, CSS Positioning Review, and Quiz (88/88 steps complete)[cite: 15] | [Read Log](./logs/day-53.md) |
-| **Day 54** | Oct 25, 2026 | Attribute Selectors Theory Start | Started Attribute Selectors module and completed initial theory lessons on targeting elements with attribute selectors (3/71 steps complete)[cite: 14] | [Read Log](./logs/day-54.md) |
+| **Day 54** | Oct 25, 2026 | Balance Sheet Workshop Progress | Completed Attribute Selectors theory and reached Step 8 of Build a Balance Sheet workshop[cite: 14, 15] | [Read Log](./logs/day-54.md) |
