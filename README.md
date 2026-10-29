@@ -63,3 +63,4 @@
 | **Day 54** | Oct 25, 2026 | Balance Sheet Workshop Progress | Completed Attribute Selectors theory and reached Step 8 of Build a Balance Sheet workshop[cite: 14, 15] | [Read Log](./logs/day-54.md) |
 | **Day 55** | Oct 27, 2026 | Balance Sheet Workshop Progress | Advanced through Step 42 of Build a Balance Sheet workshop, styling elements with the CSS `calc()` function and sticky positioning[cite: 16] | [Read Log](./logs/day-55.md) |
 | **Day 56** | Oct 28, 2026 | Attribute Selectors Section Completion | Completed Balance Sheet workshop, Review, and Quiz (Attribute Selectors module at 71/71 steps complete)[cite: 16] | [Read Log](./logs/day-56.md) |
+| **Day 57** | Oct 29, 2026 | Book Inventory App Project Completion | Completed Build a Book Inventory App certification project and started the Responsive Design module | [Read Log](./logs/day-57.md) |
