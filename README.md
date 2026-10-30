@@ -64,4 +64,4 @@
 | **Day 55** | Oct 27, 2026 | Balance Sheet Workshop Progress | Advanced through Step 42 of Build a Balance Sheet workshop, styling elements with the CSS `calc()` function and sticky positioning[cite: 16] | [Read Log](./logs/day-55.md) |
 | **Day 56** | Oct 28, 2026 | Attribute Selectors Section Completion | Completed Balance Sheet workshop, Review, and Quiz (Attribute Selectors module at 71/71 steps complete)[cite: 16] | [Read Log](./logs/day-56.md) |
 | **Day 57** | Oct 29, 2026 | Book Inventory App Project Completion | Completed Build a Book Inventory App certification project and started the Responsive Design module | [Read Log](./logs/day-57.md) |
-| **Day 58** | Oct 30, 2026 | Responsive Design Theory Completion | Completed Best Practices for Responsive Web Design theory section (Responsive Design module at 4/37 steps complete)[cite: 16] | [Read Log](./logs/day-58.md) |
+| **Day 58** | Oct 30, 2026 | Responsive Design & Piano Workshop | Completed Best Practices theory and Design a Piano workshop (Responsive Design module at 35/37 steps complete)[cite: 16] | [Read Log](./logs/day-58.md) |
